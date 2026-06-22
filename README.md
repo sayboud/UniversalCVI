@@ -8,7 +8,7 @@ Algorithms for checking the accuracy of a clustering result with known classes, 
 
 UniversalCVI requires Python 3.8 or higher and depends on NumPy, Pandas, SciPy, scikit-learn, and Matplotlib. It implements Fuzzy C-Means as a scikit-learn compatible estimator and provides a Gaussian Mixture Model wrapper with hierarchical initialization and BIC-based covariance model selection inspired by [`mclust`](https://CRAN.R-project.org/package=mclust).
 
-In addition to the evaluation tools, the UniversalCVI package also includes 17 simulated datasets intially used for testing and comparing cluster validity indices in several perspectives written in Wiroonsri(2024) and Wiroonsri and Preedasawakul(2023). 
+In addition to the evaluation tools, the UniversalCVI package also includes 17 simulated datasets intially used for testing and comparing cluster validity indices in several perspectives written in Wiroonsri(2024) and Wiroonsri and Preedasawakul(2026). 
 
 The cluster validity indices available in this package are listed as follows:
 

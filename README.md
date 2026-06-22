@@ -20,6 +20,11 @@ Dunn's index, Calinski–Harabasz index, Davies–Bouldin’s index, Point biser
 
 Xie–Beni index, KWON index, KWON2 index, TANG index , HF index, Wu–Li index, Pakhira–Bandyopadhyay–Maulik (for fuzzy clustering) index, KPBM index, Correlation Cluster Validity index, Generalized C index, Wiroonsri and Preedasawakul index.
 
+## Installation
+
+```bash
+pip install git+https://github.com/sayboud/UniversalCVI.git
+```
 
 ## References
 

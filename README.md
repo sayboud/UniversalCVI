@@ -32,7 +32,7 @@ N. Wiroonsri and O. Preedasawakul (2026). UniversalCVI: Hard and Soft Cluster Va
 
 N. Wiroonsri and O. Preedasawakul (2026). A correlation-based fuzzy cluster validity index with secondary options detector. Fuzzy Sets and Systems, 523, 109632. https://doi.org/10.1016/j.fss.2025.109632
 
-Nathakhun Wiroonsri. (2024). Clustering performance analysis using a new correlation-based cluster validity index. Pattern Recognition, 145, 109910. https://doi.org/10.1016/j.patcog.2023.109910
+N. Wiroonsri (2024). Clustering performance analysis using a new correlation-based cluster validity index. Pattern Recognition, 145, 109910. https://doi.org/10.1016/j.patcog.2023.109910
 
 ## License
 

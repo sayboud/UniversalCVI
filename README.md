@@ -1,6 +1,6 @@
 # UniversalCVI
 
-Algorithms for checking the accuracy of a clustering result with known classes, computing cluster validity indices, and generating plots for comparing them.
+Python version of the original [UniversalCVI](https://CRAN.R-project.org/package=UniversalCVI) package in R. Algorithms for checking the accuracy of a clustering result with known classes, computing cluster validity indices, and generating plots for comparing them.
 
 ## Description
 

@@ -10,6 +10,9 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/sayboud/UniversalCVI",
     packages=find_packages(),
+    package_data={
+        "UniversalCVI": ["data/*.csv"],
+    },
     install_requires=open("requirements.txt").read().splitlines(),
     python_requires=">=3.8",
    classifiers=[
